@@ -16,7 +16,7 @@
 }
 
 #header .logo {
-  content: url("https://64.media.tumblr.com/863c6e8625eb8f261d5d6125daeb1513/daab928c91aaa938-67/s2048x3072/bc7c5dd8d1809f1a81fc1b1abe238e970c838e8f.png");
+  content: url("https://github.com/celedriel/wenclair-ao3-skin/blob/824e03f7057a90024c8382300b11e398eb1d5b13/ao3-logo-purple.png");
 }
 
 #header .heading sup {
