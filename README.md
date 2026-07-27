@@ -38,7 +38,7 @@ Em seguida clica em *Create a Work Skin*.
 
 <img width="600" alt="Captura de tela 2026-07-27 000739" src="https://github.com/user-attachments/assets/51cc72e2-fa09-40b6-b096-3e40e57e67f8" />
 
-Copie o código no arquivo **WENCLAIR** exatamente onde está escrito **CSS**.
+Copie o código do arquivo **WENCLAIR** exatamente onde está escrito **CSS**.
 
 Adicione um título e uma descrição de sua preferência e pode salvar e usar. 
 
