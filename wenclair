@@ -9,10 +9,10 @@
 
 #header .heading {
   min-height: 230px !important;
-  width: 100% !important;
+  width: 100%;
   margin: 0 !important;
   padding: 10px !important;
-  box-sizing: border-box !important;
+  box-sizing: border-box;
 }
 
 #header .logo {
@@ -24,11 +24,11 @@
 }
 
 #greeting {
-  width: 100% !important;
+  width: 100%;
   background: #000000 !important;
   margin: 0 !important;
   padding: 5px 15px !important;
-  box-sizing: border-box !important;
+  box-sizing: border-box;
   display: flex !important;
   justify-content: flex-end !important;
   align-items: center !important;
@@ -37,10 +37,10 @@
 }
 
 #header .primary {
-  width: 100% !important;
+  width: 100%;
   background: #000000 !important;
   margin: 0 !important;
-  box-sizing: border-box !important;
+  box-sizing: border-box;
   box-shadow: none !important;
   border: none !important;
 }
@@ -58,9 +58,9 @@ img.icon {
   overflow-x: hidden;
 }
 
-#inner.wrapper {
+#outer.wrapper #inner.wrapper {   /* <--- seletor mais específico */
   margin: 0 auto !important;
-  padding: 0 4% !important;
+  padding: 0 !important;          /* <--- zerado completamente */
 }
 
 .userstuff {
@@ -92,12 +92,12 @@ li.blurb,
 .work .wrapper,
 #main .wrapper,
 .bookmark .user {
-  border: none !important;
+  border: none;
   background-color: #000000 !important;
   padding: 15px 10px;
   border-radius: 10px;
   margin-bottom: 15px;
-  box-shadow: none !important;
+  box-shadow: none;
 }
 
 a,
@@ -226,9 +226,9 @@ form.search input[type=text],
 form.search input[type=submit],
 .autocomplete div.dropdown ul {
   background: #000000 !important;
-  color: #E0DEF4 !important;
+  color: #E0DEF4;
   border: none !important;
-  box-shadow: none !important;
+  box-shadow: none;
 }
 
 .caution {
@@ -274,4 +274,3 @@ span.submit.actions input.button {
 /* =========================================
    skin by @celedriell
    ========================================= */
-
