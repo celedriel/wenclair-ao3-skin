@@ -58,9 +58,9 @@ img.icon {
   overflow-x: hidden;
 }
 
-#outer.wrapper #inner.wrapper {   /* <--- seletor mais específico */
+#outer.wrapper #inner.wrapper { 
   margin: 0 auto !important;
-  padding: 0 !important;          /* <--- zerado completamente */
+  padding: 0 !important;          
 }
 
 .userstuff {
