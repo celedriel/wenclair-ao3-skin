@@ -58,9 +58,9 @@ img.icon {
   overflow-x: hidden;
 }
 
-#outer.wrapper #inner.wrapper { 
+#outer.wrapper #inner.wrapper {
   margin: 0 auto !important;
-  padding: 0 !important;          
+  padding: 0 !important;
 }
 
 .userstuff {
@@ -82,14 +82,12 @@ img.icon {
   color: #CBA6F6 !important;
 }
 
-
 div.module,
 #dashboard .navigation {
   background-color: #000000 !important;
   border: none !important;
   box-shadow: none !important;
 }
-
 
 div.module h3,
 div.module h3.heading,
@@ -137,6 +135,16 @@ a:focus,
   background: transparent;
 }
 
+a:visited,
+a.tag:visited,
+#main a:visited,
+#main .heading a:visited,
+.work .heading a:visited,
+a[rel="author"]:visited,
+.byline a:visited {
+  color: #9A89B4 !important;
+}
+
 h1.heading a {
   color: #CBA6F6 !important;
   font-weight: 515;
@@ -163,8 +171,13 @@ div.dynamic {
 }
 
 #dashboard.own {
-  border-top: 2px solid #1a1a1a;
+  border-top: none !important;
   border-bottom: 2px solid #1a1a1a;
+}
+
+#dashboard {
+  border-top: 2px solid #1a1a1a !important;
+  border-bottom: 2px solid #1a1a1a !important;
 }
 
 #dashboard a {
@@ -178,7 +191,6 @@ div.dynamic {
   color: #F4A6D7 !important;
   border-radius: 5px;
 }
-
 
 button,
 .actions a,
@@ -198,7 +210,6 @@ input[type="submit"],
   box-shadow: none !important;
 }
 
-
 #header .actions a,
 #greeting .actions a,
 #header .primary .menu a,
@@ -215,8 +226,11 @@ input[type="submit"]:hover,
   background-color: #1a1a1a !important;
 }
 
+a.tag,
 li.warnings a,
-li.relationships a {
+li.relationships a,
+li.characters a,
+li.freeforms a {
   display: inline-block;
   padding: 1.5px 5px;
   margin: 2.5px 1px;
@@ -224,6 +238,11 @@ li.relationships a {
   color: #E0DEF4 !important;
   text-decoration: none;
   border: none;
+  background-color: #1a1a1a !important; 
+}
+
+.commas li:after {
+  content: "" !important;
 }
 
 li.warnings a {
@@ -235,12 +254,16 @@ li.relationships a {
   background-color: #571845 !important;
 }
 
+a.tag:hover,
 li.warnings a:hover,
-li.relationships a:hover {
+li.relationships a:hover,
+li.characters a:hover,
+li.freeforms a:hover {
   background-color: transparent !important;
   border: none !important;
   color: #F4A6D7 !important;
 }
+
 
 .notice:not(.required),
 .comment_notice,
@@ -264,10 +287,20 @@ form.search input[type=submit],
   color: #E0DEF4;
   border: none !important;
   box-shadow: none;
+  outline: none !important;
+}
+
+input,
+select,
+textarea,
+form.search input[type=text],
+form.search input[type=submit] {
+  border: 1px solid #1a1a1a !important;
+  border-radius: 5px !important;
 }
 
 .caution {
-  background: #F4A936 !important;
+  background: #F4F936 !important;
   color: #000000 !important;
 }
 
@@ -306,6 +339,212 @@ span.submit.actions input.button {
   display: none;
 }
 
-/* =========================================
-   skin by @celedriells
-   ========================================= */
+.splash .favorite li:nth-of-type(odd),
+.favorite li:nth-of-type(odd) {
+  background-color: #1a1a1a !important;
+  background-image: none !important;
+  border: none !important;
+}
+
+.splash .favorite li:nth-of-type(even),
+.favorite li:nth-of-type(even) {
+  background-color: #000000 !important;
+  background-image: none !important;
+  border: none !important;
+}
+
+.splash .favorite li a,
+.favorite li a {
+  background-color: transparent !important;
+}
+
+.listbox,
+.listbox fieldset {
+  background-color: #000000 !important;
+  border: 1px solid #1a1a1a !important;
+  border-radius: 10px !important;
+  padding: 15px !important;
+  box-shadow: none !important;
+}
+
+.work.blurb,
+li.blurb {
+  border: none !important;
+  background-color: transparent !important;
+  box-shadow: none !important;
+  margin-left: 0 !important;
+  padding-left: 0 !important;
+}
+
+ol.work.index {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+
+.filters,
+form#work-filters,
+form#bookmark-filters {
+  background-color: #1a1a1a !important;
+  border: none !important;
+  border-radius: 8px !important;
+  padding: 10px !important;
+  box-sizing: border-box !important;
+  box-shadow: none !important;
+}
+
+.filters fieldset {
+  background-color: transparent !important;
+  border: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+.filters .heading {
+  background-color: transparent !important;
+  color: #CBA6F6 !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+
+.filters dl {
+  margin: 0 !important;
+  padding: 0 !important;
+  background-color: transparent !important;
+}
+
+.filters dt {
+  background-color: transparent !important;
+  color: #CBA6F6 !important;
+  border: none !important;
+  border-bottom: 1px solid #000000 !important;
+  padding: 10px 5px !important;
+  margin: 0 !important;
+}
+
+.filters dd {
+  background-color: transparent !important;
+  border: none !important;
+  padding: 10px 5px !important;
+  margin: 0 !important;
+}
+
+li.message .header,
+li.message .header.module,
+li.comment .header,
+li.comment .header.module,
+li.message.unread .header,
+li.comment.unread .header,
+li.comment .heading,
+li.message .heading,
+li.comment.unread .heading,
+li.message.unread .heading,
+.thread .heading,
+h4.viewed.heading,
+.viewed.heading {
+  background-color: #1a1a1a !important;
+  border: none !important;
+  border-radius: 5px !important;
+  color: #E0DEF4 !important;
+}
+
+.icon {
+  background-color: transparent !important;
+  border: none !important;
+}
+
+svg.icon.kudos-icon {
+  display: none !important;
+}
+
+p.kudos {
+  background-image: url("https://raw.githubusercontent.com/celedriel/wenclair-ao3-skin/refs/heads/main/thing-hearts.png") !important;
+  background-size: 60px !important; 
+  background-repeat: no-repeat !important;
+  background-position: left center !important;
+  padding-left: 70px !important; 
+  min-height: 60px !important;
+}
+
+#kudos_submit::before {
+  content: "";
+  display: inline-block;
+  width: 30px; 
+  height: 30px;
+  background-image: url("https://raw.githubusercontent.com/celedriel/wenclair-ao3-skin/refs/heads/main/thing-hearts.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  vertical-align: middle;
+  margin-right: 5px;
+}
+
+.actions .menu,
+#main .actions .menu,
+.action .menu {
+  background-color: #000000 !important;
+  box-shadow: none !important;
+  border: 1px solid #1a1a1a !important;
+}
+
+#main form dd input[type="text"],
+#main form dd input[type="password"],
+#main form dd input[type="email"],
+#main form dd select,
+#main form dd textarea,
+.autocomplete .token {
+  border: 1px solid #633F88 !important;
+  background-color: #000000 !important;
+  color: #E0DEF4 !important;
+}
+
+/* Textos normais e tags adicionadas */
+#main form dd,
+#main form dd label,
+.autocomplete .added.tag,
+.autocomplete li {
+  color: #E0DEF4 !important;
+}
+
+#main form dd .note,
+#main form dd p.note,
+#main form dd p.character_counter,
+#main form dd .footnote,
+#main form dd p {
+  color: #F4A6D7 !important; 
+  font-weight: 500 !important;
+}
+
+#main form dl dt {
+  border-bottom: 1px solid #633F88 !important;
+  color: #CBA6F6 !important;
+}
+
+.required.notice,
+.notice.required {
+  background-color: #1a1a1a !important;
+  border: 1px solid #1a1a1a !important;
+  color: #E0DEF4 !important;
+}
+
+.tox .tox-editor-header, .tox .tox-toolbar, .tox .tox-toolbar__primary, .tox .tox-toolbar__group {
+  background-color: #000000 !important;
+}
+
+.tox .tox-tbtn {
+  background-color: #ffffff !important;
+  border: 1px solid #CBA6F6 !important;
+  border-radius: 4px !important;
+}
+
+.tox .tox-tbtn svg {
+  fill: #000000 !important;
+}
+
+.tox .tox-tbtn span {
+  color: #000000 !important;
+}
+
+.tox .tox-tbtn:hover {
+  background-color: #F4A6D7 !important;
+}
