@@ -1,5 +1,5 @@
 #header {
-  background-image: url("https://github.com/celedriel/wenclair-ao3-skin/blob/5ac6fff9ac6d538295293cf271b2e0b76c9934c8/wenclair.jpg");
+  background-image: url("https://raw.githubusercontent.com/celedriel/wenclair-ao3-skin/refs/heads/main/wenclair.jpg");
   background-repeat: no-repeat;
   background-position: center 30%;
   background-size: cover;
@@ -16,7 +16,7 @@
 }
 
 #header .logo {
-  content: url("https://github.com/celedriel/wenclair-ao3-skin/blob/824e03f7057a90024c8382300b11e398eb1d5b13/ao3-logo-purple.png");
+  content: url("https://raw.githubusercontent.com/celedriel/wenclair-ao3-skin/refs/heads/main/ao3-logo-purple.png");
 }
 
 #header .heading sup {
@@ -270,3 +270,5 @@ form.search input[type=submit],
 span.submit.actions input.button {
   display: none;
 }
+
+
