@@ -1,29 +1,29 @@
 # Wenclair AO3 site skin by @celedriell.
 
-## preview:
+## Preview:
 
-mobile:
+**mobile:**
 
 <img width="700" alt="01" src="https://github.com/user-attachments/assets/1f0f3920-3399-41c2-9c13-72906e878c15" />
 
-kudos:
+**kudos:**
 
 <img width="700" alt="02" src="https://github.com/user-attachments/assets/a5d6351d-3694-48d4-b2d9-b7255630593f" />
 
-comentários:
+**comentários:**
 
 <img width="700" alt="03" src="https://github.com/user-attachments/assets/a2693ca3-bbc0-4a7e-9233-ad22251e0fb5" />
 
-profile pc:
+**profile pc:**
 
 <img width="700" alt="Captura de tela 2026-07-27 182357" src="https://github.com/user-attachments/assets/47d7993b-e176-4c94-91b8-1ba6f6b2d091" />
 
-dashboard pc:
+**dashboard pc:**
 
 <img width="700" alt="Captura de tela 2026-07-27 182438" src="https://github.com/user-attachments/assets/1642b32a-cc22-4155-a24e-22fd523fa0f7" />
 
 
-##Como colocar as skins:
+## Como colocar as skins:
 
 
 Para colocar a skin você precisa clicar no seu perfil ou onde está escrito *hi user*.
