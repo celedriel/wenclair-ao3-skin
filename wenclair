@@ -82,6 +82,27 @@ img.icon {
   color: #CBA6F6 !important;
 }
 
+
+div.module,
+#dashboard .navigation {
+  background-color: #000000 !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+
+
+div.module h3,
+div.module h3.heading,
+.dashboard .user .heading,
+fieldset legend,
+.statistics .heading,
+.filters .heading {
+  background-color: #000000 !important;
+  color: #CBA6F6 !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+
 a[rel="author"],
 .byline a {
   color: #F4A6D7 !important;
@@ -158,26 +179,40 @@ div.dynamic {
   border-radius: 5px;
 }
 
+
 button,
 .actions a,
 .actions a:link,
+.actions a:visited,
 .action,
 input[type="submit"],
-.actions a:visited,
-.filtering .filters #leave_filters {
-  color: #000000;
-  background-color: #CBA6F6;
-  border: none;
-  border-radius: 5px;
-  box-shadow: none;
+.filtering .filters #leave_filters,
+.navigation.actions a,
+.navigation.actions a:link,
+.navigation.actions a:visited {
+  color: #CBA6F6 !important;
+  background-color: #000000 !important;
+  background-image: none !important;
+  border: 1px solid #1a1a1a !important;
+  border-radius: 5px !important;
+  box-shadow: none !important;
+}
+
+
+#header .actions a,
+#greeting .actions a,
+#header .primary .menu a,
+#greeting .menu a {
+  border: none !important;
 }
 
 button:hover,
 .actions a:hover,
 .action:hover,
-input[type="submit"]:hover {
-  color: #000000;
-  background-color: #F4A6D7;
+input[type="submit"]:hover,
+.navigation.actions a:hover {
+  color: #F4A6D7 !important;
+  background-color: #1a1a1a !important;
 }
 
 li.warnings a,
@@ -272,5 +307,5 @@ span.submit.actions input.button {
 }
 
 /* =========================================
-   skin by @celedriell
+   skin by @celedriells
    ========================================= */
