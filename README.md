@@ -1,45 +1,60 @@
-# Wenclair AO3 site skin by @celedriell.
+<div align="center">
+  <h1>🦇 Wenclair AO3 Site Skin</h1>
+  <p>Skin personalizada para o Archive of Our Own (AO3) criada por <a href="https://github.com/celedriel">@celedriel</a>.</p>
+</div>
 
-## Preview:
+---
 
-**mobile:**
+## Previews
 
-<img width="700" alt="01" src="https://github.com/user-attachments/assets/1f0f3920-3399-41c2-9c13-72906e878c15" />
+<details>
+  <summary><b>📱 Visão Mobile</b></summary><br>
+  <img width="700" alt="Mobile Preview" src="https://github.com/user-attachments/assets/1f0f3920-3399-41c2-9c13-72906e878c15" />
+</details>
 
-**kudos:**
+<details>
+  <summary><b>Kudos</b></summary><br>
+  <img width="700" alt="Kudos Preview" src="https://github.com/user-attachments/assets/a5d6351d-3694-48d4-b2d9-b7255630593f" />
+</details>
 
-<img width="700" alt="02" src="https://github.com/user-attachments/assets/a5d6351d-3694-48d4-b2d9-b7255630593f" />
+<details>
+  <summary><b>Comentários</b></summary><br>
+  <img width="700" alt="Comentários Preview" src="https://github.com/user-attachments/assets/a2693ca3-bbc0-4a7e-9233-ad22251e0fb5" />
+</details>
 
-**comentários:**
+<details>
+  <summary><b>Profile (PC)</b></summary><br>
+  <img width="700" alt="Profile PC Preview" src="https://github.com/user-attachments/assets/47d7993b-e176-4c94-91b8-1ba6f6b2d091" />
+</details>
 
-<img width="700" alt="03" src="https://github.com/user-attachments/assets/a2693ca3-bbc0-4a7e-9233-ad22251e0fb5" />
+<details>
+  <summary><b>Dashboard (PC)</b></summary><br>
+  <img width="700" alt="Dashboard PC Preview" src="https://github.com/user-attachments/assets/1642b32a-cc22-4155-a24e-22fd523fa0f7" />
+</details>
 
-**profile pc:**
+<br>
 
-<img width="700" alt="Captura de tela 2026-07-27 182357" src="https://github.com/user-attachments/assets/47d7993b-e176-4c94-91b8-1ba6f6b2d091" />
+## 🛠️ Como instalar a skin
 
-**dashboard pc:**
+Siga o passo a passo abaixo para aplicar a skin na sua conta:
 
-<img width="700" alt="Captura de tela 2026-07-27 182438" src="https://github.com/user-attachments/assets/1642b32a-cc22-4155-a24e-22fd523fa0f7" />
+1. **Acesse seu perfil:** Faça login no AO3 e clique no seu perfil (onde está escrito *Hi, user!*).
+   <br>
+   <img width="600" alt="Passo 1" src="https://github.com/user-attachments/assets/7c580e6a-5d87-4c5e-9b9b-37c69211a11a" />
 
+2. **Vá para as Skins:** Role a página até encontrar o botão **Skins** no menu lateral e clique nele.
+   <br>
+   <img width="600" alt="Passo 2" src="https://github.com/user-attachments/assets/94268ebf-cd5f-4f49-8804-410617481614" />
 
-## Como colocar as skins:
+3. **Crie a Skin:** Clique no botão **Create Site Skin**. 
+   <br>
+   <img width="600" alt="Passo 3" src="https://github.com/user-attachments/assets/51cc72e2-fa09-40b6-b096-3e40e57e67f8" />
 
+4. **Adicione o código:** 
+   * Dê um título e uma descrição de sua preferência.
+   * Copie todo o código do arquivo `WENCLAIR` deste repositório.
+   * Cole o código exatamente na caixa de texto chamada **CSS**.
+   <br>
+   <img width="600" alt="Passo 4" src="https://github.com/user-attachments/assets/f1a741f6-96ad-4f09-b548-8871a7b0cda8" />
 
-Para colocar a skin você precisa clicar no seu perfil ou onde está escrito *hi user*.
-
-<img width="600" alt="Captura de tela 2026-07-27 000702" src="https://github.com/user-attachments/assets/7c580e6a-5d87-4c5e-9b9b-37c69211a11a" />
-
-Você rola a barra até encontar o botão de *skins*, e clica nele.
-
-<img width="600" alt="Captura de tela 2026-07-27 000710" src="https://github.com/user-attachments/assets/94268ebf-cd5f-4f49-8804-410617481614" />
-
-Em seguida clica em *Create a Work Skin*.
-
-<img width="600" alt="Captura de tela 2026-07-27 000739" src="https://github.com/user-attachments/assets/51cc72e2-fa09-40b6-b096-3e40e57e67f8" />
-
-Copie o código do arquivo **WENCLAIR** exatamente onde está escrito **CSS**.
-
-Adicione um título e uma descrição de sua preferência e pode salvar e usar. 
-
-<img width="600" alt="Captura de tela 2026-07-27 000759" src="https://github.com/user-attachments/assets/f1a741f6-96ad-4f09-b548-8871a7b0cda8" />
+5. **Salve e aplique:** Role até o final da página, clique em **Submit** e, na página seguinte, basta clicar em **Use** para começar a usar a skin!
