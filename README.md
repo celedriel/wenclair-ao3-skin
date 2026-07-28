@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🦇 Wenclair AO3 Site Skin</h1>
+  <h1>Wenclair AO3 Site Skin</h1>
   <p>Skin personalizada para o Archive of Our Own (AO3) criada por <a href="https://github.com/celedriel">@celedriel</a>.</p>
 </div>
 
@@ -8,7 +8,7 @@
 ## Previews
 
 <details>
-  <summary><b>📱 Visão Mobile</b></summary><br>
+  <summary><b>Visão Mobile</b></summary><br>
   <img width="700" alt="Mobile Preview" src="https://github.com/user-attachments/assets/1f0f3920-3399-41c2-9c13-72906e878c15" />
 </details>
 
@@ -34,7 +34,7 @@
 
 <br>
 
-## 🛠️ Como instalar a skin
+## Como instalar a skin
 
 Siga o passo a passo abaixo para aplicar a skin na sua conta:
 
