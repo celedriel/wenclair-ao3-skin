@@ -641,6 +641,35 @@ h2.heading a.tag,
   padding: 0 !important;
 }
 
+dl.statistics.meta.group {
+  background-color: #000000 !important; 
+  background-image: none !important; 
+  border: none !important; 
+  border-radius: 10px !important;
+  padding: 15px !important;
+}
+
+.statistics .index li:nth-of-type(2n) {
+  background-color: #633F88 !important; 
+  border-radius: 5px !important;
+}
+
+.statistics .index li strong,
+.statistics .index li {
+  color: #CBA6F6 !important;
+}
+
+#stat_chart svg {
+  filter: invert(90%) hue-rotate(90deg) saturate(300%) contrast(110%) !important;
+  border: none !important; 
+  background: transparent !important;
+}
+
+.stats-index.dashboard.region .actions.module {
+  margin-top: 2em !important;
+}
+
+
 /* ===================================
 skin by @celedriell on twt
 & @celedriel on git
