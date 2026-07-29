@@ -9,8 +9,10 @@
 
 <details>
   <summary><b>Visão Mobile</b></summary><br>
-  <img width="700" alt="Mobile Preview" src="https://github.com/user-attachments/assets/1f0f3920-3399-41c2-9c13-72906e878c15" />
+  <img width="700" alt="1412" alt="Mobile Preview" src="https://github.com/user-attachments/assets/5e0fc2e2-6d92-4f72-b548-6453c5c6b967" />
 </details>
+
+
 
 <details>
   <summary><b>Kudos</b></summary><br>
