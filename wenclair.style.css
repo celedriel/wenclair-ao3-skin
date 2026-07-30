@@ -281,14 +281,13 @@ li.relationships a {
   background-color: #571845 !important;
 }
 
-
 li.characters a {
-  background-color: #633F88 !important; /* Roxo que combina com a skin */
+  background-color: #633F88 !important; 
   color: #E0DEF4 !important; 
 }
 
 li.freeforms a {
-  background-color: #31748F !important; /* Azul elegante que combina com o tema dark */
+  background-color: #31748F !important; 
   color: #E0DEF4 !important; 
 }
 /* ================================== */
@@ -341,6 +340,7 @@ form.search input[type=text],
 form.search input[type=submit] {
   border: 1px solid #1a1a1a !important;
   border-radius: 5px !important;
+  color: #E0DEF4 !important;
 }
 
 .caution {
@@ -420,7 +420,6 @@ ol.work.index {
   padding: 0 !important;
 }
 
-
 .filters,
 form#work-filters,
 form#bookmark-filters {
@@ -438,7 +437,6 @@ form#bookmark-filters {
   color: #CBA6F6 !important;
   background-color: transparent !important;
 }
-
 
 .filters dt {
   background-color: #000000 !important;
@@ -466,7 +464,6 @@ form#bookmark-filters {
   background-color: #1a1a1a !important;
   color: #E0DEF4 !important;
 }
-
 
 li.message .header,
 li.message .header.module,
