@@ -54,7 +54,7 @@ Siga o passo a passo abaixo para aplicar a skin na sua conta:
 
 4. **Adicione o código:** 
    * Dê um título e uma descrição de sua preferência.
-   * Copie todo o código do arquivo `WENCLAIR` deste repositório.
+   * Copie todo o código do arquivo `WENCLAIR.STYLE` deste repositório.
    * Cole o código exatamente na caixa de texto chamada **CSS**.
    <br>
    <img width="600" alt="Passo 4" src="https://github.com/user-attachments/assets/f1a741f6-96ad-4f09-b548-8871a7b0cda8" />
