@@ -42,11 +42,11 @@ ___
 > [!TIP]
 > **Cores das Tags / Tag Colors:** Para facilitar a leitura e a navegação visual pelas fanfics, as tags foram separadas por cores inspiradas na paleta da skin.
 > 
-> * **Avisos (Warnings):** Vermelho / Red
-> * **Fandoms:** Verde Pastel / Pastel Green
-> * **Relacionamentos (Relationships):** Vinho / Dark Purple
-> * **Personagens (Characters):** Roxo / Purple
-> * **Tags Adicionais (Freeforms):** Azul Esverdeado / Teal
+> | **Avisos (Warnings):** Vermelho / Red | **Relacionamentos (Relationships):** Vinho / Dark Purple |
+> | :--- | :--- |
+> | <img height="35" alt="warnings" src="https://github.com/user-attachments/assets/9168e24c-5da9-4311-a193-c61a12895b5b" /> | <img height="35" alt="shipps" src="https://github.com/user-attachments/assets/cdeefe46-7aa1-4c53-9575-cfde5751fecc" /> |
+> | **Personagens (Characters):** Roxo / Purple | **Tags Adicionais (Freeforms):** Azul Esverdeado / Teal |
+> | <img height="35" alt="personagens" src="https://github.com/user-attachments/assets/8a2b48d2-9673-4093-b04d-bcb29e503eed" /> | <img height="35" alt="freeforms" src="https://github.com/user-attachments/assets/256d306a-4017-4900-b71f-1b589eb77fc0" /> |
 
 <div align="center">
   <img width="100%" alt="tags" src="https://github.com/user-attachments/assets/77bc9e6e-d8bb-4c8d-a9e5-7c75c6ee57f8" />
