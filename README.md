@@ -1,42 +1,62 @@
 <div align="center">
-  <h1>Wenclair AO3 Site Skin</h1>
-  <p>Skin personalizada para o Archive of Our Own (AO3) criada por <a href="https://github.com/celedriel">@celedriel</a>.</p>
+
+# Wenclair AO3 Site Skin 
+
+<img src="https://raw.githubusercontent.com/celedriel/wenclair-ao3-skin/refs/heads/main/ao3-logo-purple.png" width="10%">
+
 </div>
 
----
+<div align="center">
 
-## Previews
+ **Uma skin minimalista em dark mode para o Archive of Our Own (AO3), com background escuro e detalhes em rosa e roxo. / A minimalist dark mode skin for AO3 with pink and purple accents.** 
 
-<details>
-  <summary><b>Mobile</b></summary><br>
-  <img width="700" alt="1412" alt="Mobile Preview" src="https://github.com/user-attachments/assets/5e0fc2e2-6d92-4f72-b548-6453c5c6b967"/>
-</details>
+</div>
 
+<div align="center">
 
+<a href="https://github.com/celedriel">![badge](https://img.shields.io/badge/Made_by-celedriel-262622?style=for-the-badge&logo=github&logoColor=262622&logoSize=auto&color=CBA6F6) </a>
+<a href="https://archiveofourown.org/">![badge](https://img.shields.io/badge/Platform-AO3-262622?style=for-the-badge&logo=archiveofourown&logoColor=262622&logoSize=auto&color=9A89B4) </a>
+<a href="#">![badge](https://img.shields.io/badge/Code-CSS3-262622?style=for-the-badge&logo=css3&logoColor=262622&logoSize=auto&color=F4A6D7) </a>
 
-<details>
-  <summary><b>Kudos</b></summary><br>
-  <img width="700" alt="Kudos Preview" src="https://github.com/user-attachments/assets/a5d6351d-3694-48d4-b2d9-b7255630593f" />
-</details>
-
-<details>
-  <summary><b>Comentários</b></summary><br>
-  <img width="700" alt="Comentários Preview" src="https://github.com/user-attachments/assets/a2693ca3-bbc0-4a7e-9233-ad22251e0fb5" />
-</details>
-
-<details>
-  <summary><b>Profile (PC)</b></summary><br>
-  <img width="700" alt="Profile PC Preview" src="https://github.com/user-attachments/assets/47d7993b-e176-4c94-91b8-1ba6f6b2d091" />
-</details>
-
-<details>
-  <summary><b>Dashboard (PC)</b></summary><br>
-  <img width="700" alt="Dashboard PC Preview" src="https://github.com/user-attachments/assets/1642b32a-cc22-4155-a24e-22fd523fa0f7" />
-</details>
+</div>
 
 <br>
 
-## Como instalar a skin / How to install the skin
+### Previews
+
+| Mobile | Kudos |
+| :---: | :---: |
+| <img width="400" alt="Mobile Preview" src="https://github.com/user-attachments/assets/5e0fc2e2-6d92-4f72-b548-6453c5c6b967"/> | <img width="400" alt="Kudos Preview" src="https://github.com/user-attachments/assets/a5d6351d-3694-48d4-b2d9-b7255630593f" /> |
+
+| Comentários | Profile (PC) |
+| :---: | :---: |
+| <img width="400" alt="Comentários Preview" src="https://github.com/user-attachments/assets/a2693ca3-bbc0-4a7e-9233-ad22251e0fb5" /> | <img width="400" alt="Profile PC Preview" src="https://github.com/user-attachments/assets/47d7993b-e176-4c94-91b8-1ba6f6b2d091" /> |
+
+| Dashboard (PC) |
+| :---: |
+| <img width="850" alt="Dashboard PC Preview" src="https://github.com/user-attachments/assets/1642b32a-cc22-4155-a24e-22fd523fa0f7" /> |
+
+___
+
+> [!TIP]
+> **Cores das Tags / Tag Colors:** Para facilitar a leitura e a navegação visual pelas fanfics, as tags foram separadas por cores inspiradas na paleta da skin.
+> 
+> * **Avisos (Warnings):** Vermelho / Red
+> * **Fandoms:** Verde Pastel / Pastel Green
+> * **Relacionamentos (Relationships):** Vinho / Dark Purple
+> * **Personagens (Characters):** Roxo / Purple
+> * **Tags Adicionais (Freeforms):** Azul Esverdeado / Teal
+
+<div align="center">
+  <img width="100%" alt="tags" src="https://github.com/user-attachments/assets/77bc9e6e-d8bb-4c8d-a9e5-7c75c6ee57f8" />
+</div>
+
+____
+
+### Installation 
+
+> [!NOTE]
+> **English speakers:** Check the dropdown below for the translated step-by-step guide on how to install this skin.
 
 <details>
 <summary><b>Click here for the English version</b></summary>
