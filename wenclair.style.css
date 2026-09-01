@@ -677,3 +677,5 @@ dl.statistics.meta.group {
 #stat_chart svg {
   filter: grayscale(100%) invert(88%) brightness(120%) contrast(110%) !important;
 }
+
+#modal, #modal * { color: #000000 !important; }
